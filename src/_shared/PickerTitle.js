@@ -39,7 +39,7 @@ var styles = function styles(theme) {
   return {
     toolbar: {
       justifyContent: 'center',
-      color: '#000',
+      color: '#01A1DD',
       backgroundColor: '#FFF'
     }
   };
