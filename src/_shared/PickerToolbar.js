@@ -38,7 +38,7 @@ var styles = function styles(theme) {
       alignItems: 'flex-start',
       justifyContent: 'center',
       height: 100,
-      backgroundColor: theme.palette.type === 'light' ? theme.palette.primary[500] : theme.palette.background.default
+      backgroundColor: '#FFF'
     }
   };
 };
