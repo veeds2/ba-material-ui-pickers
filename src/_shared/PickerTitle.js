@@ -39,8 +39,8 @@ var styles = function styles(theme) {
   return {
     toolbar: {
       justifyContent: 'center',
-      color: '#fff',
-      backgroundColor: theme.palette.type === 'light' ? theme.palette.primary[400] : theme.palette.background.default
+      color: '#000',
+      backgroundColor: '#FFF'
     }
   };
 };
